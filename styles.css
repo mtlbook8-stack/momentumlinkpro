@@ -46,7 +46,11 @@ section { padding: 100px 0; }
 
 /* Stats */
 .stats { background: #fff; border-top: 1px solid #e5e9ef; border-bottom: 1px solid #e5e9ef; padding: 60px 0; }
-.stats-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 32px; text-align: center; }
+.stats-grid {display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 32px; text-align: center; @media (max-width: 900px) {
+  .stats-grid {
+    grid-template-columns: 1fr; /* Align items into a single column on smaller screens */
+  }
+}
 .stat-num { font-size: 48px; font-weight: 700; color: #185FA5; line-height: 1; margin-bottom: 8px; }
 .stat-label { color: #5a6478; font-size: 14px; letter-spacing: 1px; text-transform: uppercase; }
 
