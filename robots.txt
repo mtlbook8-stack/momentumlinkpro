@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://momentumlinkpro.com/sitemap.xml
+Sitemap: https://www.momentumlinkpro.com/sitemap.xml
