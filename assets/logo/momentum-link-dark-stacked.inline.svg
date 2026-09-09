@@ -1,0 +1,24 @@
+<svg width="680" height="408" viewBox="0 0 680 408" xmlns="http://www.w3.org/2000/svg"><title>Momentum Link Professionals</title>
+<defs>
+  <linearGradient id="st-g1" x1="0" y1="0" x2="0.35" y2="1"><stop offset="0" stop-color="#EAF2FB"></stop><stop offset="0.6" stop-color="#D3E4F6"></stop><stop offset="1" stop-color="#C1D8F0"></stop></linearGradient>
+  <linearGradient id="st-g2" x1="0" y1="0" x2="0.35" y2="1"><stop offset="0" stop-color="#97C3EE"></stop><stop offset="0.6" stop-color="#7FB2E4"></stop><stop offset="1" stop-color="#6DA1D6"></stop></linearGradient>
+  <linearGradient id="st-g3" x1="0" y1="0" x2="0.35" y2="1"><stop offset="0" stop-color="#4E96E0"></stop><stop offset="0.6" stop-color="#3B87D6"></stop><stop offset="1" stop-color="#3078C4"></stop></linearGradient>
+  <radialGradient id="st-d1" cx="0.32" cy="0.28" r="0.85"><stop offset="0" stop-color="#A8CCF1"></stop><stop offset="1" stop-color="#7FB2E4"></stop></radialGradient>
+  <radialGradient id="st-d2" cx="0.32" cy="0.28" r="0.85"><stop offset="0" stop-color="#5C9CE0"></stop><stop offset="1" stop-color="#3B87D6"></stop></radialGradient>
+  <filter id="st-sh" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="2" stdDeviation="2" flood-color="#000000" flood-opacity="0.35"></feDropShadow></filter>
+</defs>
+<g transform="translate(340, 106)" filter="url(#st-sh)">
+  <path d="M -76,-38 L -38,0 L -76,38" fill="none" stroke="url(#st-g1)" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"></path>
+  <path d="M -30,-38 L 8,0 L -30,38" fill="none" stroke="url(#st-g2)" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"></path>
+  <path d="M 16,-38 L 54,0 L 16,38" fill="none" stroke="url(#st-g3)" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"></path>
+  <circle cx="76" cy="0" r="6.5" fill="url(#st-d1)"></circle>
+  <circle cx="96" cy="0" r="3.25" fill="url(#st-d2)"></circle>
+  <g stroke="#FFFFFF" stroke-opacity="0.32" stroke-width="2" fill="none" stroke-linecap="round" transform="translate(0, -1.6)">
+    <path d="M -70,-32 L -41,-2"></path><path d="M -24,-32 L 5,-2"></path><path d="M 22,-32 L 51,-2"></path>
+  </g>
+</g>
+<text x="340" y="252" text-anchor="middle" font-family="Archivo, Helvetica, Arial, sans-serif" font-size="46" font-weight="600" fill="#FFFFFF" letter-spacing="9">MOMENTUM LINK</text>
+<text x="340" y="286" text-anchor="middle" font-family="Archivo, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#7FB2E4" letter-spacing="11.5">PROFESSIONALS</text>
+<rect x="316" y="318" width="48" height="2" fill="#7FB2E4"></rect>
+<text x="340" y="360" text-anchor="middle" font-family="Archivo, Helvetica, Arial, sans-serif" font-size="17" font-weight="400" fill="#C3CEDC" letter-spacing="0.4">Quickly linking your business to better tech.</text>
+</svg>
